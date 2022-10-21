@@ -5,7 +5,7 @@ The left subtree of a node contains only nodes with keys lesser than the node’
 The right subtree of a node contains only nodes with keys greater than the node’s key.
 The left and right subtree each must also be a binary search tree.
 
-This C++ Implementation takes uppercase characters only. 
+This C++ implementation takes uppercase characters only. 
 
 User is first prompted with a menu that has the following options:
 -------------------- MENU ----------------------
