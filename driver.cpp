@@ -13,7 +13,7 @@ int main(void){
 	int numNodes;
 
 
-	cout << "WELCOME TO BST!" << endl;
+	cout << "WELCOME TO BST" << endl;
 	cout << "-------------------- MENU ----------------------" << endl;
 	cout << "1. Insert node(s)" << endl;
 	cout << "2. Traverse Preorder" << endl;
